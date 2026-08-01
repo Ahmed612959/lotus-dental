@@ -1,0 +1,16 @@
+{
+  "name": "lotus-dental-care",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "description": "Lotus Dental Care — full platform (Vercel: client = static build, api = serverless functions)",
+  "scripts": {
+    "seed": "node scripts/seed.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.1",
+    "nanoid": "^3.3.7"
+  }
+}
