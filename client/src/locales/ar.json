@@ -1,0 +1,260 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "services": "الخدمات",
+    "doctors": "أطباؤنا",
+    "about": "من نحن",
+    "contact": "تواصل معنا",
+    "bookNow": "احجز موعدك",
+    "myBooking": "حجزي"
+  },
+  "hero": {
+    "eyebrow": "عيادة لوتس لطب الأسنان",
+    "title": "ابتسامتك تستحق نقاء اللوتس",
+    "subtitle": "رعاية أسنان متكاملة بأحدث الأجهزة وفريق طبي متخصص، في بيئة هادئة تليق بابتسامتك.",
+    "cta": "احجز موعدك الآن",
+    "ctaSecondary": "تعرف على خدماتنا"
+  },
+  "why": {
+    "title": "ليه تختار لوتس",
+    "subtitle": "كل تفصيلة في رحلتك معانا اتصممت عشان تحس بالراحة والثقة",
+    "items": {
+      "equipment": { "title": "أحدث الأجهزة", "text": "تقنيات تصوير وعلاج حديثة لدقة أعلى وراحة أكتر" },
+      "doctors": { "title": "أطباء متخصصون", "text": "فريق من الاستشاريين بخبرات موثقة في كل التخصصات" },
+      "sterilization": { "title": "تعقيم كامل", "text": "بروتوكولات تعقيم صارمة تحمي كل مريض في كل زيارة" },
+      "pricing": { "title": "أسعار واضحة", "text": "تعرف تكلفة علاجك من أول استشارة من غير مفاجآت" }
+    }
+  },
+  "stats": {
+    "patients": "مريض سعيد",
+    "years": "سنوات خبرة",
+    "doctors": "طبيب متخصص"
+  },
+  "services": {
+    "title": "خدماتنا",
+    "subtitle": "علاجات شاملة لكل احتياجات أسنانك",
+    "pageTitle": "خدماتنا",
+    "pageSubtitle": "من الكشف الدوري للتحويلات الجراحية الدقيقة",
+    "priceOnConsultation": "السعر حسب الكشف",
+    "duration": "دقيقة",
+    "bookThisService": "احجز هذه الخدمة",
+    "viewAll": "عرض كل الخدمات"
+  },
+  "doctors": {
+    "title": "أطباؤنا",
+    "subtitle": "فريق طبي بيحافظ على ابتسامتك",
+    "pageTitle": "تعرف على فريقنا الطبي",
+    "pageSubtitle": "خبرة وثقة في كل تخصص",
+    "experience": "سنوات خبرة",
+    "bookWithDoctor": "احجز مع هذا الطبيب",
+    "viewProfile": "عرض الملف الشخصي",
+    "qualifications": "المؤهلات",
+    "availableDays": "أيام العمل"
+  },
+  "about": {
+    "title": "من نحن",
+    "storyTitle": "قصتنا",
+    "visionTitle": "رؤيتنا",
+    "missionTitle": "رسالتنا"
+  },
+  "testimonials": {
+    "title": "ماذا يقول مرضانا",
+    "subtitle": "ثقة بنيناها زيارة ورا زيارة"
+  },
+  "contact": {
+    "title": "تواصل معنا",
+    "subtitle": "إحنا هنا لأي استفسار",
+    "form": {
+      "name": "الاسم",
+      "email": "البريد الإلكتروني",
+      "message": "رسالتك",
+      "send": "إرسال الرسالة",
+      "sending": "جاري الإرسال...",
+      "success": "تم إرسال رسالتك بنجاح، هنتواصل معاك قريبًا",
+      "error": "حصل خطأ، حاول تاني"
+    },
+    "info": {
+      "address": "العنوان",
+      "phone": "التليفون",
+      "email": "البريد الإلكتروني",
+      "hours": "ساعات العمل"
+    }
+  },
+  "booking": {
+    "title": "احجز موعدك",
+    "subtitle": "خطوات بسيطة تفصلك عن موعدك",
+    "steps": {
+      "service": "الخدمة",
+      "doctor": "الطبيب",
+      "datetime": "التاريخ والوقت",
+      "details": "بياناتك"
+    },
+    "selectService": "اختر الخدمة",
+    "selectDoctor": "اختر الطبيب",
+    "anyDoctor": "أي طبيب متاح",
+    "selectDate": "اختر اليوم",
+    "selectTime": "اختر الوقت",
+    "noSlotsAvailable": "لا توجد مواعيد متاحة في هذا اليوم، جرّب يوم آخر",
+    "loadingSlots": "جاري تحميل المواعيد المتاحة...",
+    "fullName": "الاسم بالكامل",
+    "phone": "رقم الموبايل",
+    "emailOptional": "البريد الإلكتروني (اختياري)",
+    "notes": "ملاحظات (اختياري)",
+    "notesPlaceholder": "أي معلومات تحب تخبرنا بيها قبل الزيارة",
+    "back": "رجوع",
+    "next": "التالي",
+    "confirmBooking": "تأكيد الحجز",
+    "booking": "جاري الحجز...",
+    "successTitle": "تم حجز موعدك بنجاح!",
+    "successText": "احتفظ بكود الحجز ده عشان تقدر تتابع أو تلغي موعدك",
+    "bookingCode": "كود الحجز",
+    "appointmentDate": "تاريخ الموعد",
+    "appointmentTime": "الوقت",
+    "backToHome": "العودة للرئيسية",
+    "errorSlotTaken": "للأسف الموعد ده اتحجز لحظة ما كنت بتحجز، اختار وقت تاني",
+    "required": "هذا الحقل مطلوب",
+    "invalidPhone": "رقم الموبايل غير صحيح"
+  },
+  "myBooking": {
+    "title": "متابعة حجزي",
+    "subtitle": "أدخل كود الحجز اللي وصلك عشان تشوف تفاصيل موعدك",
+    "codeLabel": "كود الحجز",
+    "search": "بحث",
+    "notFound": "لم يتم العثور على حجز بهذا الكود",
+    "status": {
+      "pending": "قيد المراجعة",
+      "confirmed": "مؤكد",
+      "cancelled": "ملغي",
+      "completed": "تم الكشف",
+      "no_show": "لم يحضر"
+    },
+    "cancelBooking": "إلغاء الموعد",
+    "cancelConfirm": "هل أنت متأكد من إلغاء هذا الموعد؟",
+    "cancelSuccess": "تم إلغاء الموعد بنجاح"
+  },
+  "footer": {
+    "tagline": "ابتسامتك تستحق نقاء اللوتس",
+    "quickLinks": "روابط سريعة",
+    "contactInfo": "معلومات التواصل",
+    "followUs": "تابعنا",
+    "rights": "جميع الحقوق محفوظة"
+  },
+  "days": {
+    "sunday": "الأحد",
+    "monday": "الإثنين",
+    "tuesday": "الثلاثاء",
+    "wednesday": "الأربعاء",
+    "thursday": "الخميس",
+    "friday": "الجمعة",
+    "saturday": "السبت"
+  },
+  "admin": {
+    "login": {
+      "title": "تسجيل الدخول",
+      "subtitle": "لوحة تحكم عيادة لوتس",
+      "email": "البريد الإلكتروني",
+      "password": "كلمة المرور",
+      "submit": "دخول",
+      "error": "بيانات الدخول غير صحيحة"
+    },
+    "sidebar": {
+      "dashboard": "الرئيسية",
+      "appointments": "المواعيد",
+      "doctors": "الأطباء",
+      "services": "الخدمات",
+      "patients": "المرضى",
+      "content": "المحتوى",
+      "settings": "الإعدادات",
+      "logout": "تسجيل الخروج"
+    },
+    "dashboard": {
+      "title": "نظرة عامة",
+      "todayAppointments": "مواعيد اليوم",
+      "weekAppointments": "مواعيد الأسبوع",
+      "pendingReview": "قيد المراجعة",
+      "totalPatients": "إجمالي المرضى",
+      "recentAppointments": "أحدث الحجوزات"
+    },
+    "appointments": {
+      "title": "إدارة المواعيد",
+      "addManual": "إضافة حجز يدوي",
+      "filterByDoctor": "فلترة بالطبيب",
+      "filterByStatus": "فلترة بالحالة",
+      "allDoctors": "كل الأطباء",
+      "allStatuses": "كل الحالات",
+      "searchPlaceholder": "بحث بالاسم أو رقم الموبايل",
+      "table": {
+        "patient": "المريض",
+        "doctor": "الطبيب",
+        "service": "الخدمة",
+        "date": "التاريخ",
+        "time": "الوقت",
+        "status": "الحالة",
+        "actions": "إجراءات"
+      },
+      "confirm": "تأكيد",
+      "cancel": "إلغاء",
+      "complete": "تم الكشف",
+      "noShow": "لم يحضر",
+      "delete": "حذف",
+      "deleteConfirm": "هل أنت متأكد من حذف هذا الحجز نهائيًا؟"
+    },
+    "doctors": {
+      "title": "إدارة الأطباء",
+      "addNew": "إضافة طبيب جديد",
+      "nameAr": "الاسم (عربي)",
+      "nameEn": "الاسم (إنجليزي)",
+      "specialtyAr": "التخصص (عربي)",
+      "specialtyEn": "التخصص (إنجليزي)",
+      "experience": "سنوات الخبرة",
+      "workingHours": "ساعات العمل",
+      "save": "حفظ",
+      "edit": "تعديل",
+      "deactivate": "إيقاف",
+      "activate": "تفعيل"
+    },
+    "services": {
+      "title": "إدارة الخدمات",
+      "addNew": "إضافة خدمة جديدة",
+      "nameAr": "الاسم (عربي)",
+      "nameEn": "الاسم (إنجليزي)",
+      "duration": "المدة (دقيقة)",
+      "price": "السعر",
+      "showPrice": "إظهار السعر للمريض"
+    },
+    "patients": {
+      "title": "إدارة المرضى",
+      "searchPlaceholder": "بحث بالاسم أو رقم الموبايل",
+      "visitHistory": "سجل الزيارات"
+    },
+    "content": {
+      "title": "إدارة المحتوى",
+      "testimonials": "آراء المرضى",
+      "addTestimonial": "إضافة رأي جديد",
+      "publish": "نشر",
+      "unpublish": "إخفاء"
+    },
+    "settings": {
+      "title": "الإعدادات العامة",
+      "clinicInfo": "بيانات العيادة",
+      "workingHours": "ساعات العمل العامة",
+      "closedDates": "الإجازات",
+      "addClosedDate": "إضافة يوم إجازة",
+      "save": "حفظ التغييرات",
+      "saved": "تم الحفظ بنجاح"
+    }
+  },
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ ما",
+    "retry": "إعادة المحاولة",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "close": "إغلاق",
+    "yes": "نعم",
+    "no": "لا",
+    "currency": "جنيه"
+  }
+}

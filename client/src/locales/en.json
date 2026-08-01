@@ -1,0 +1,260 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "doctors": "Our Doctors",
+    "about": "About Us",
+    "contact": "Contact",
+    "bookNow": "Book Now",
+    "myBooking": "My Booking"
+  },
+  "hero": {
+    "eyebrow": "Lotus Dental Care",
+    "title": "Your Smile Deserves the Purity of a Lotus",
+    "subtitle": "Comprehensive dental care with the latest technology and a specialized team, in a calm environment worthy of your smile.",
+    "cta": "Book Your Appointment",
+    "ctaSecondary": "Explore Our Services"
+  },
+  "why": {
+    "title": "Why Choose Lotus",
+    "subtitle": "Every detail of your journey with us is designed for comfort and confidence",
+    "items": {
+      "equipment": { "title": "Latest Equipment", "text": "Modern imaging and treatment technology for greater precision and comfort" },
+      "doctors": { "title": "Specialized Doctors", "text": "A team of consultants with proven expertise across every specialty" },
+      "sterilization": { "title": "Full Sterilization", "text": "Strict sterilization protocols protecting every patient, every visit" },
+      "pricing": { "title": "Clear Pricing", "text": "Know your treatment cost from the first consultation, no surprises" }
+    }
+  },
+  "stats": {
+    "patients": "Happy Patients",
+    "years": "Years of Experience",
+    "doctors": "Specialist Doctors"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive treatments for all your dental needs",
+    "pageTitle": "Our Services",
+    "pageSubtitle": "From routine checkups to precise surgical treatments",
+    "priceOnConsultation": "Price upon consultation",
+    "duration": "min",
+    "bookThisService": "Book This Service",
+    "viewAll": "View All Services"
+  },
+  "doctors": {
+    "title": "Our Doctors",
+    "subtitle": "A medical team dedicated to your smile",
+    "pageTitle": "Meet Our Medical Team",
+    "pageSubtitle": "Expertise and trust in every specialty",
+    "experience": "years of experience",
+    "bookWithDoctor": "Book With This Doctor",
+    "viewProfile": "View Profile",
+    "qualifications": "Qualifications",
+    "availableDays": "Working Days"
+  },
+  "about": {
+    "title": "About Us",
+    "storyTitle": "Our Story",
+    "visionTitle": "Our Vision",
+    "missionTitle": "Our Mission"
+  },
+  "testimonials": {
+    "title": "What Our Patients Say",
+    "subtitle": "Trust built one visit at a time"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here for any questions",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Your Message",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Your message was sent successfully, we'll get back to you soon",
+      "error": "Something went wrong, please try again"
+    },
+    "info": {
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Working Hours"
+    }
+  },
+  "booking": {
+    "title": "Book Your Appointment",
+    "subtitle": "A few simple steps to your appointment",
+    "steps": {
+      "service": "Service",
+      "doctor": "Doctor",
+      "datetime": "Date & Time",
+      "details": "Your Details"
+    },
+    "selectService": "Select a Service",
+    "selectDoctor": "Select a Doctor",
+    "anyDoctor": "Any Available Doctor",
+    "selectDate": "Select a Day",
+    "selectTime": "Select a Time",
+    "noSlotsAvailable": "No available slots on this day, try another day",
+    "loadingSlots": "Loading available slots...",
+    "fullName": "Full Name",
+    "phone": "Mobile Number",
+    "emailOptional": "Email (optional)",
+    "notes": "Notes (optional)",
+    "notesPlaceholder": "Anything you'd like us to know before your visit",
+    "back": "Back",
+    "next": "Next",
+    "confirmBooking": "Confirm Booking",
+    "booking": "Booking...",
+    "successTitle": "Your appointment is booked!",
+    "successText": "Save this booking code so you can track or cancel your appointment",
+    "bookingCode": "Booking Code",
+    "appointmentDate": "Appointment Date",
+    "appointmentTime": "Time",
+    "backToHome": "Back to Home",
+    "errorSlotTaken": "Sorry, this slot was just taken while you were booking. Please choose another time.",
+    "required": "This field is required",
+    "invalidPhone": "Invalid phone number"
+  },
+  "myBooking": {
+    "title": "Track My Booking",
+    "subtitle": "Enter the booking code you received to view your appointment details",
+    "codeLabel": "Booking Code",
+    "search": "Search",
+    "notFound": "No booking found with this code",
+    "status": {
+      "pending": "Pending Review",
+      "confirmed": "Confirmed",
+      "cancelled": "Cancelled",
+      "completed": "Completed",
+      "no_show": "No Show"
+    },
+    "cancelBooking": "Cancel Appointment",
+    "cancelConfirm": "Are you sure you want to cancel this appointment?",
+    "cancelSuccess": "Appointment cancelled successfully"
+  },
+  "footer": {
+    "tagline": "Your smile deserves the purity of a lotus",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved"
+  },
+  "days": {
+    "sunday": "Sunday",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday"
+  },
+  "admin": {
+    "login": {
+      "title": "Login",
+      "subtitle": "Lotus Dental Care Dashboard",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Login",
+      "error": "Invalid login credentials"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "appointments": "Appointments",
+      "doctors": "Doctors",
+      "services": "Services",
+      "patients": "Patients",
+      "content": "Content",
+      "settings": "Settings",
+      "logout": "Logout"
+    },
+    "dashboard": {
+      "title": "Overview",
+      "todayAppointments": "Today's Appointments",
+      "weekAppointments": "This Week",
+      "pendingReview": "Pending Review",
+      "totalPatients": "Total Patients",
+      "recentAppointments": "Recent Appointments"
+    },
+    "appointments": {
+      "title": "Manage Appointments",
+      "addManual": "Add Manual Booking",
+      "filterByDoctor": "Filter by Doctor",
+      "filterByStatus": "Filter by Status",
+      "allDoctors": "All Doctors",
+      "allStatuses": "All Statuses",
+      "searchPlaceholder": "Search by name or phone",
+      "table": {
+        "patient": "Patient",
+        "doctor": "Doctor",
+        "service": "Service",
+        "date": "Date",
+        "time": "Time",
+        "status": "Status",
+        "actions": "Actions"
+      },
+      "confirm": "Confirm",
+      "cancel": "Cancel",
+      "complete": "Mark Completed",
+      "noShow": "No Show",
+      "delete": "Delete",
+      "deleteConfirm": "Are you sure you want to permanently delete this appointment?"
+    },
+    "doctors": {
+      "title": "Manage Doctors",
+      "addNew": "Add New Doctor",
+      "nameAr": "Name (Arabic)",
+      "nameEn": "Name (English)",
+      "specialtyAr": "Specialty (Arabic)",
+      "specialtyEn": "Specialty (English)",
+      "experience": "Years of Experience",
+      "workingHours": "Working Hours",
+      "save": "Save",
+      "edit": "Edit",
+      "deactivate": "Deactivate",
+      "activate": "Activate"
+    },
+    "services": {
+      "title": "Manage Services",
+      "addNew": "Add New Service",
+      "nameAr": "Name (Arabic)",
+      "nameEn": "Name (English)",
+      "duration": "Duration (min)",
+      "price": "Price",
+      "showPrice": "Show price to patients"
+    },
+    "patients": {
+      "title": "Manage Patients",
+      "searchPlaceholder": "Search by name or phone",
+      "visitHistory": "Visit History"
+    },
+    "content": {
+      "title": "Manage Content",
+      "testimonials": "Testimonials",
+      "addTestimonial": "Add New Testimonial",
+      "publish": "Publish",
+      "unpublish": "Unpublish"
+    },
+    "settings": {
+      "title": "General Settings",
+      "clinicInfo": "Clinic Info",
+      "workingHours": "General Working Hours",
+      "closedDates": "Holidays",
+      "addClosedDate": "Add Holiday",
+      "save": "Save Changes",
+      "saved": "Saved successfully"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "yes": "Yes",
+    "no": "No",
+    "currency": "EGP"
+  }
+}
