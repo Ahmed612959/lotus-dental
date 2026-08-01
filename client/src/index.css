@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-cream text-ink antialiased;
+}
+
+/* Arabic gets Cairo (display) / Tajawal (body); English gets Fraunces / Inter.
+   The `lang` attribute is set on <html> by LanguageContext. */
+html[lang='ar'] body {
+  font-family: 'Tajawal', sans-serif;
+}
+html[lang='en'] body {
+  font-family: 'Inter', sans-serif;
+}
+
+html[lang='ar'] .font-display {
+  font-family: 'Cairo', sans-serif;
+}
+html[lang='en'] .font-display {
+  font-family: 'Fraunces', serif;
+  font-style: italic;
+}
+
+/* Respect reduced-motion preference */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Visible keyboard focus ring everywhere, using the brand color */
+:focus-visible {
+  outline: 2px solid #1f4d3d;
+  outline-offset: 2px;
+}
+
+/* Smooth anchor scrolling for in-page navigation */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Petal divider element used between sections (see PetalDivider component) */
+.petal-shape {
+  clip-path: path('M20 0C20 0 0 12 0 25C0 33 8.5 40 20 44C31.5 40 40 33 40 25C40 12 20 0 20 0Z');
+}
